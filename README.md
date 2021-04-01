@@ -1,4 +1,4 @@
-# Neural Networks and Deep Learning
+# Deep Learning
 by DeepLearning.AI
 
 ## About this Specialization
