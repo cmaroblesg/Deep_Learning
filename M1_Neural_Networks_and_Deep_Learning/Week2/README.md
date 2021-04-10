@@ -10,3 +10,7 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
 * Use Numpy functions and Numpy matrix/vector operations.
 * Work with iPython Notebooks.
 * Implement vectorization across multiple training examples.
+
+## Coding Assignment
+* [Lab: Python Basics with numpy](./codes/Python_Basics_With_Numpy_v3a.ipynb)
+* [Lab: Logitic Regressiion with a Neural Network mindset](./codes/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
