@@ -14,3 +14,4 @@ Good luck as you get started, and I hope you enjoy the course!
 * **Week 1:** [Introduction to deep learning](./Week1/README.md)
 * **Week 2:** [Neural Networks Basics](./Week2/README.md)
 * **Week 3:** [Shallow neural networks](./Week3/README.md)
+* **Week 4:** [Deep Neural Network - Application](./Week4/README.md)

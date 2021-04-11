@@ -11,3 +11,5 @@ Understand the key computations underlying deep learning, use them to build and 
 * Explain the role of hyperparameters in deep learning
 
 ## Coding Assignment
+* [Lab: Building your Deep Neural Network: Step by Step](./codes/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+* [Lab: Deep Neural Network - Application](./codes/Deep+Neural+Network+-+Application+v8.ipynb)
