@@ -10,3 +10,6 @@ Learn to build a neural network with one hidden layer, using forward propagation
 * Apply random initialization to your neural network
 * Increase fluency in Deep Learning notations and Neural Network Representations
 * Implement a 2-class classification neural network with a single hidden layer
+
+## Coding Assignment
+* [Lab: Planar data classification with a hidden layer](./codes/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
