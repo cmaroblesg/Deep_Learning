@@ -19,4 +19,4 @@ By the end, you will learn the best practices to train and develop test sets and
 The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI.
 
 ## Content
-* **Week 1:**[Practical Aspects of Deep Learning](./Week1/README.md)
+* **Week 1:** [Practical Aspects of Deep Learning](./Week1/README.md)
