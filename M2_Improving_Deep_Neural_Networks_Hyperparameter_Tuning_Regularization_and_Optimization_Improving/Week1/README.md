@@ -13,3 +13,6 @@ Discover and experiment with a variety of different initialization methods, appl
 * Use gradient checking to verify the accuracy of your backpropagation implementation
 * Apply zeros initialization, random initialization, and He initialization
 * Apply regularization to a deep learning model
+
+## Coding Assignment
+* [Initialization](./codes/Initialization.ipynb)
