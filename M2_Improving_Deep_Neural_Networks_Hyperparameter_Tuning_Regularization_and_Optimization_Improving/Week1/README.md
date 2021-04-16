@@ -17,3 +17,4 @@ Discover and experiment with a variety of different initialization methods, appl
 ## Coding Assignment
 * [Initialization](./codes/Initialization.ipynb)
 * [Regularization](./codes/Regularization.ipynb)
+* [Gradient Checking](./codes/Gradient_Checking.ipynb)
