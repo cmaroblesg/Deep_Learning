@@ -20,3 +20,4 @@ The Deep Learning Specialization is our foundational program that will help you 
 
 ## Content
 * **Week 1:** [Practical Aspects of Deep Learning](./Week1/README.md)
+* **Week 2:** [Optimization Algorithms](./Week2/README.md) 
