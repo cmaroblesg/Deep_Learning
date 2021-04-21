@@ -9,3 +9,4 @@ Develop your deep learning toolbox by adding more advanced optimizations, random
 * Describe the benefits of learning rate decay and apply it to your optimization
 
 ## Programming Assignment
+* [Optimization methods](./codes/Optimization_methods.ipynb)
