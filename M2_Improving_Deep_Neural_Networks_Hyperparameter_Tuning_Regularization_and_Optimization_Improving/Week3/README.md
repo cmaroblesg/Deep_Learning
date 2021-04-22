@@ -14,3 +14,5 @@ Explore TensorFlow, a deep learning framework that allows you to build neural ne
 * Explain the difference between a variable and a constant
 
 ## Programming Assignment
+* [TensorFlow Basic Structure](./codes/TensorFlow_BasicStructure.ipynb)
+* [TensorFlow Introduction](./codes/TensorFlow_introduction.ipynb)
