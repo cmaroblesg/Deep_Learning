@@ -15,4 +15,4 @@ Explore TensorFlow, a deep learning framework that allows you to build neural ne
 
 ## Programming Assignment
 * [TensorFlow Basic Structure](./codes/TensorFlow_BasicStructure.ipynb)
-* [TensorFlow Introduction](./codes/TensorFlow_introduction.ipynb)
+* [TensorFlow Introduction](./codes/Tensorflow_introduction.ipynb)
