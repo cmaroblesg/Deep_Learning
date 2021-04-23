@@ -1,4 +1,5 @@
-Machine Learning Flight Simulator
+# Machine Learning Flight Simulator
+
 To help you practice strategies for machine learning, the following exercise will present an in-depth scenario and ask how you would act. Consider airplane pilots who’s training involves time spent in flight simulators. These flight simulators accelerate the pilots’ learning by allowing them to experience a volume and variety of scenarios that they otherwise may have needed a much longer time to acquire.
 
 ![Flight Simulator](./imag/flight_simulator.png)
