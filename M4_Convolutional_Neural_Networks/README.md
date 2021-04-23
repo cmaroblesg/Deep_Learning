@@ -17,4 +17,4 @@ If you have questions about course content, please post them in Discourse to get
 Good luck as you get started, and I hope you enjoy the course!
 
 ## Content
-* **Week 1:**(Convolutional Neural Networks)[./Week1/README.md]
+* **Week 1:** [Convolutional Neural Networks](./Week1/README.md)
