@@ -20,3 +20,4 @@ Good luck as you get started, and I hope you enjoy the course!
 
 ## Content
 * **Week 1:** [ML Strategy (1)](./Week1/README.md)
+* **Week 2:** [ML Strategy (2)](./Week2/README.md)
