@@ -12,3 +12,4 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 * [Course 1: Neural Networks and Deep Learning](./M1_Neural_Networks_and_Deep_Learning/README.md)
 * [Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](./M2_Improving_Deep_Neural_Networks_Hyperparameter_Tuning_Regularization_and_Optimization_Improving/README.md)
 * [Course 3: Structuring Machine Learning Projects](./M3_Structuring_Machine_Learning_Projects/README.md)
+* [Course 4: Convolutional Neural Networks](./M4_Convolutional_Neural_Networks/README.md)
