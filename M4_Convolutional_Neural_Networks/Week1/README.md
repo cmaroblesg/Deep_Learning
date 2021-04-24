@@ -15,3 +15,6 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 * Build and train a ConvNet in TensorFlow for a binary classification problem
 * Build and train a ConvNet in TensorFlow for a multiclass classification problem
 * Explain different use cases for the Sequential and Functional APIs
+
+## Coding Assignment
+* [Convolutional Model Step by Step](./codes/Convolutional_model_Step_by_Step_v1.ipynb)
