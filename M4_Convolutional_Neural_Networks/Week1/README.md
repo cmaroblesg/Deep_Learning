@@ -18,3 +18,4 @@ Implement the foundational layers of CNNs (pooling, convolutions) and stack them
 
 ## Coding Assignment
 * [Convolution Model Step by Step](./codes/Convolution_model_Step_by_Step_v1.ipynb)
+* [Convolution Model Application](./codes/Convolution_model_Application.ipynb)
