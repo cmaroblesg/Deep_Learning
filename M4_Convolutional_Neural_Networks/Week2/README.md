@@ -12,3 +12,5 @@ Discover some powerful practical tricks and methods used in deep CNNs, straight 
 * Fine-tine a classifier's final layers to improve accuracy
 
 ## Coding Assignment
+* [Residual Networks](./codes/Residual_Networks.ipynb)
+* [Transfer Learning with MobileNet](./codes/Transfer_learning_with_MobileNet_v1.ipynb)
