@@ -16,3 +16,5 @@ Apply your new knowledge of CNNs to one of the hottest (and most challenging!) f
 * Build a U-Net
 
 ## Coding Assignment
+* [Autonomous driving application: Car detection with YOLO](./codes/Autonomous_driving_application_Car_detection.ipynb)
+* [Image segmentation with U-Net](./codes/Image_segmentation_Unet_v1.ipynb)
