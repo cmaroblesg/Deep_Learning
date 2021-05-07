@@ -16,3 +16,5 @@ Explore how CNNs can be applied to multiple fields, including art generation and
 * Define the content cost function for Neural Style Transfer
 
 ## Coding Assignment
+* [Face Recognition](./codes/Face_Recognition.ipynb)
+* [Art Generation with Neural Style Transfer](./codes/Art_Generation_with_Neural_Style_Transfer.ipynb)

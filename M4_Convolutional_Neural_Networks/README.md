@@ -20,3 +20,4 @@ Good luck as you get started, and I hope you enjoy the course!
 * **Week 1:** [Convolutional Neural Networks](./Week1/README.md)
 * **Week 2:** [Deep Convolutional Models: Case Studies](./Week2/README.md)
 * **Week 3:** [Object Detection](./Week3/README.md)
+* **Week 4:** [Face recognition & Neural Style Transfer](./Week4/README.md)
