@@ -16,6 +16,9 @@ If you have questions about course content, please post them in Discourse to get
 
 Good luck as you get started, and I hope you enjoy the course!
 
+## Readings
+* [Additional materials](./Readings.md)
+
 ## Content
 * **Week 1:** [Convolutional Neural Networks](./Week1/README.md)
 * **Week 2:** [Deep Convolutional Models: Case Studies](./Week2/README.md)
