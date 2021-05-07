@@ -11,6 +11,10 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
 * Work with iPython Notebooks.
 * Implement vectorization across multiple training examples.
 
+## References
+* [Introduction to gradients and automatic differentiation](https://www.tensorflow.org/guide/autodiff) (TensorFlow Documentation)
+* [tf.GradientTape](https://www.tensorflow.org/api_docs/python/tf/GradientTape) (TensorFlow Documentation)
+
 ## Coding Assignment
 * [Lab: Python Basics with numpy](./codes/Python_Basics_With_Numpy_v3a.ipynb)
 * [Lab: Logitic Regressiion with a Neural Network mindset](./codes/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)

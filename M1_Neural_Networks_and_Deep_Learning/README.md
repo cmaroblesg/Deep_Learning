@@ -18,6 +18,9 @@ If you have questions about course content, please post them in the forums to ge
 
 Good luck as you get started, and I hope you enjoy the course!
 
+## Deep learning notation
+* [Deep learning notation](./deep-learning-notation.pdf)
+
 ## Content
 * **Week 1:** [Introduction to deep learning](./Week1/README.md)
 * **Week 2:** [Neural Networks Basics](./Week2/README.md)
