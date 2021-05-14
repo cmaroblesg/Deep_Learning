@@ -12,5 +12,5 @@
 * Perform extractive Question Answering
 
 ## Coding Assignment
-* [Transformers Architecture with Tensorflow](./codes/C5_W4_A1_Transformer_Subclass_v1.json)
+* [Transformers Architecture with Tensorflow](./codes/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 * [Named-Entity Recognition](./Transformer_application_Named_Entity_Recognition.ipynb)
